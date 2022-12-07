@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+#### Summary of all stats
 [![Daan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaanVanHauwermeiren&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
 
-
+#### Language stats from my public code:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanVanHauwermeiren&count_private=true&show_icons=true&theme=solarized-light&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
