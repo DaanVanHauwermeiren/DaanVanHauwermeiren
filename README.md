@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 [![Daan's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaanVanHauwermeiren&count_private=true&show_icons=true&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaanVanHauwermeiren)](https://github.com/anuraghazra/github-readme-stats)
